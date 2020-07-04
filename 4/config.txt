@@ -1,3 +1,9 @@
 rujulypatel@gmail.com
 https://adobe.io
 0
+*****
+logex.jar
+scaned2.jar
+activeScan++.py
+AutoRepeater.jar
+stop
