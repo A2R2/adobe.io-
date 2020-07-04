@@ -2,7 +2,7 @@ rujulypatel@gmail.com
 https://adobe.io
 0
 *****
-logex.jar
+ext_login.jar
 scaned2.jar
 activeScan++.py
 AutoRepeater.jar
