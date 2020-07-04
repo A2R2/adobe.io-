@@ -3,7 +3,5 @@ https://adobe.io
 0
 *****
 ext_login.jar
-scaned2.jar
-activeScan++.py
-AutoRepeater.jar
+ext_scanner.jar
 stop
